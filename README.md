@@ -1,16 +1,8 @@
-# chat_app3
+# BTL 1 CO3094
+Build a chat app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cách sử dựng
+* Clone repo này
+* Chạy lệnh `flutter pub get`
+* Tạo và khởi động máy ảo (khuyến nghị dùng Android 12 - Android SDK 33)
+* Chạy lệnh `flutter run`
